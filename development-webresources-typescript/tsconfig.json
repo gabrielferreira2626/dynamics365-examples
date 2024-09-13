@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "NodeNext",
+    "target": "ES2015",
+    "module": "NodeNext",
+    "strict": true,
+    "outDir": "./dist",
+    "sourceMap": false
+  },
+  "include": ["Resources/Forms/*.ts"],
+  "exclude": ["node_modules"]
+}
